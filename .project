@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>git_all_test</name>
+=======
+	<name>git-all-test</name>
+>>>>>>> branch 'master' of https://github.com/login123one/git-all-test.git
 	<comment></comment>
 	<projects>
 	</projects>

@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     <wb-module deploy-name="git_all_test">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
         <property name="context-root" value="git_all_test"/>
         <property name="java-output-path" value="/git_all_test/build/classes"/>
+=======
+    <wb-module deploy-name="git-all-test">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="git-all-test"/>
+        <property name="java-output-path" value="/git-all-test/build/classes"/>
+>>>>>>> branch 'master' of https://github.com/login123one/git-all-test.git
     </wb-module>
 </project-modules>
