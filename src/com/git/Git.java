@@ -6,8 +6,9 @@ public class Git {
 		System.out.println("This is my first gitProgramm");
 		System.out.println("This is my first gitProgramm");
 		
-		System.out.println("六不六");
+		System.out.println("事实上    六不六");
 		System.out.println("66666");
+		System.out.print("ss");;
 		
 	}
 
