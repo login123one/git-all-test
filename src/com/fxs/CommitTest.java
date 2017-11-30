@@ -7,6 +7,11 @@ public class CommitTest {
 		System.out.println("测试");
 		
 		System.out.println("测试2222");
+		System.out.println("测试2222");
+		System.out.println("测试2222");
+		System.out.println("测试2222");
+		System.out.println("测试2222");
+		System.out.println("测试2222");
 	}
 
 }
