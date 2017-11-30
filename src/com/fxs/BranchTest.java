@@ -1,10 +1,7 @@
 package com.fxs;
 
-public class StudentVO {
-
+public class BranchTest {
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.println("合并分支");
 	}
-
 }
