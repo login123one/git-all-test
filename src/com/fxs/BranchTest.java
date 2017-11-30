@@ -6,5 +6,9 @@ public class BranchTest {
 		System.out.println("合并分支事实上");
 		System.out.println("合并分支事实上");
 		System.out.println("合并分支事实上");
+		
+		
+		System.out.println("合并分支事实上");
+		System.out.println("合并分支事实上");
 	}
 }
